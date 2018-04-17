@@ -1,0 +1,6 @@
+framework module Pods_HyLi {
+  umbrella header "Pods-HyLi-umbrella.h"
+
+  export *
+  module * { export * }
+}
