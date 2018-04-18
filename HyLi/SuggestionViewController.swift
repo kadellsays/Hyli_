@@ -24,7 +24,7 @@ class SuggestionViewController: UIViewController {
     var allMarkers: [GMSMarker] = [GMSMarker]()
 //    var mapView: GMSMapView!
     var firstLoad:Bool = false
-    
+    //cat
     //MARK: Outlets
     @IBOutlet weak var suggestionListButton: UIButton!
     @IBOutlet weak var mapSuggestionButton: UIButton!
